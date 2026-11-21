@@ -22,8 +22,7 @@ The dataset includes:
 Created charts using Excel to analyse and represent the travel dataset.
 
 ## Files Included
-- Travelling_Dataset.xlsx – Original dataset with chart.
-- Travel_Chart.png – Chart visualisation (if uploaded).
+- Travelling_Dataset.xlsx 
 
 ## Author
 LAYATHIKA S R
