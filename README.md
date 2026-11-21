@@ -25,5 +25,4 @@ Created charts using Excel to analyse and represent the travel dataset.
 - Travelling_Dataset.xlsx 
 
 ## Author
-LAYATHIKA S R
-ECE Student | Beginner Data Analysis Project
+LAYATHIKA S R | ECE Student | Beginner Data Analysis Project
